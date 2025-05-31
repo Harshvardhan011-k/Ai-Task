@@ -1,9 +1,9 @@
 # Ai-Task
 
-🦷 AI Dental Clinic Chatbot
+ AI Dental Clinic Chatbot
 A simple rule-based AI chatbot built with Python to answer frequently asked questions about a fictional dental clinic.
 
-📌 What the Bot Does
+ What the Bot Does
 This chatbot is designed to:
 
 Greet the user warmly.
@@ -24,7 +24,7 @@ Handle unknown questions with a polite default message.
 
 Keep running in a loop until the user types bye, exit, or quit.
 
-▶️ How to Run It
+How to Run It
 Prerequisites:
 Python 3.x installed on your system.
 
